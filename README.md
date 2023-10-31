@@ -1,6 +1,9 @@
 # Fake_News_Detection
 
-https://github.com/shiva201/Fake_News_Detection.git
+github: https://github.com/Shape-Of-AI-Bricks/Fake_News_Detection.git
+
+colab : https://colab.research.google.com/drive/1esXx04XeMaX8qgQrEMGid1AvA9uUTPcG?usp=sharing
+
 
 Fake news detection is a crucial application of machine learning and natural language processing that focuses on identifying and distinguishing false or misleading information from credible and reliable sources. In an era where information spreads rapidly through various online platforms, the ability to accurately detect fake news is essential for maintaining informed and responsible communication.
 
